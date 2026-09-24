@@ -2,7 +2,7 @@
 
 **Forward Deployed Engineer & Senior Full-Stack Developer** — Jaipur, India · open to remote/international roles.
 
-- 🔧 10+ years, 11 production systems: CRM, SaaS, EdTech, FinTech, real estate
+- 🔧 12+ years, 11 production systems: CRM, SaaS, EdTech, FinTech, real estate
 - 📈 1M+ bookings processed · 50K+ users supported · 99.9% uptime systems
 - 🤖 AI/LLM in production: GPT-4 conversation scoring, RAG pipelines, AI voice
 - 🧰 Laravel · Node.js · React/Next.js · React Native · Python/FastAPI · AWS
